@@ -1,0 +1,9 @@
+# 构建产物
+out/
+kernel/
+KernelSU/
+toolchain/
+ak3/
+dist/
+*.zip
+*.tar.gz
