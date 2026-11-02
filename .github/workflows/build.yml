@@ -10,7 +10,7 @@ on:
           - kprobe
           - manual
         default: kprobe
-      localversion:-gbc682460573f
+      localversion:
         description: "内核版本后缀，必须与官方 uname -r 完全一致（如 -g1a2b3c4d）。留空 = 4.14.186"
         required: false
         default: ""
